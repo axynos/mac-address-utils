@@ -14,7 +14,7 @@
     "network"
   ],
   "author": "axynos",
-  "license": "ISC",
+  "license": "GNU GPLv3",
   "dependencies": {
     "bluebird": "^3.5.0",
     "buffer-equal": "^1.0.0",
